@@ -1,0 +1,5 @@
+homepageurl: https://localhost:8000/index.php
+adminuser: admin@web.com
+adminpass: admin
+nonadminuser: reesavrokka1@gmail.com
+nonadminpassword:1234
